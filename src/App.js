@@ -11,7 +11,7 @@ import { Wave1, Wave2, Random1, Random2 } from './landing.js';
 import one from './assets/images/1.png';
 import two from './assets/images/2.png';
 import three from './assets/images/3.png';
-import four from './assets/images/4.png';
+// import four from './assets/images/4.png';
 
 
 
@@ -126,7 +126,7 @@ function App() {
                 <br/> <br/> <br/>
                 <div class="row">
                   <div class="col-12 col-sm-12 col-md-6">
-                    <img src={four} width='80%'/>
+                    <img src={three} width='80%'/>
                   </div>
                   <div class="col-12 col-sm-12 col-md-6">
                       And that's it, you will be greeted by a map with indoor navigation system (just a prototype).
